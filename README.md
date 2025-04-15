@@ -42,7 +42,7 @@ Always looking to improve my knowledge about the world of technology.
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
 # **GitHub Stats:**
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=davi2907&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi2907&layout=compact&theme=dark&cache_seconds=1)
 
 # **Social Media:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-dias-9498b6332)
