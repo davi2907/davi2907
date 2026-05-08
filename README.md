@@ -2,7 +2,7 @@
 
 ### **Computer Scientist Student at Federal University of Itajubá (UNIFEI)**
 
-I'm a 20 year old student, currently in the 5th-semester of Computer Science at UNIFEI, that loves create things by programming, analyzing and using data, solving problems, building useful tools, exploring new technologies, etc.
+I'm a 21 year old student, currently in the 7th-semester of Computer Science at UNIFEI, that loves create things by programming, analyzing and using data, solving problems, building useful tools, exploring new technologies, etc.
 Always looking to improve my knowledge about the world of technology.
 
 # 👨‍💻 **Tech Stack**
